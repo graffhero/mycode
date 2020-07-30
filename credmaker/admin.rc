@@ -1,0 +1,7 @@
+export OS_AUTH_URL=www.poop.com
+export OS_IDENTITY_API_VERSION=3
+export OS_PROJECT_NAME=dumps
+export OS_PROJECT_DOMAIN_NAME=poopy dumps
+export OS_USERNAME=pusher
+export OS_USER_DOMAIN_NAME=poopypants
+export OS_PASSWORD=dung
